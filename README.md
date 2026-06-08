@@ -1,4 +1,5 @@
 # SI-BORI
+link = https://si-bori.gamer.gd/
 **Smart Innovative Boardgame Geometri berbasis Etnomatematika Jawa Tengah**
 
 ![SI-BORI Logo](assets/img/logo.png)

@@ -1,0 +1,7 @@
+-- Sample data untuk tabel penyusun
+INSERT INTO penyusun (nama, foto, bio) VALUES
+('Dr. Ahmad Santoso, M.Pd.', 'assets/img/default-avatar.png', 'Dosen Matematika di Universitas Pendidikan Indonesia dengan pengalaman 15 tahun dalam pengembangan kurikulum etnomatematika. Ahli dalam integrasi budaya lokal dengan pembelajaran matematika.'),
+('Prof. Siti Nurhaliza, Ph.D.', 'assets/img/default-avatar.png', 'Professor Antropologi Budaya di Universitas Gajah Mada. Spesialis dalam kajian etnomatematika Jawa dan preservasi pengetahuan tradisional matematika masyarakat adat.'),
+('Dr. Budi Prasetyo, M.T.', 'assets/img/default-avatar.png', 'Dosen Teknik Informatika dengan fokus pada pengembangan aplikasi edukasi interaktif. Pengembang Sistem Informasi BORI (Bahan Ajar Online Repository Interaktif).'),
+('Dra. Maya Sari, M.Si.', 'assets/img/default-avatar.png', 'Peneliti di Pusat Penelitian Matematika dan Sains. Ahli dalam metodologi penelitian kualitatif untuk studi etnomatematika dan dokumentasi pengetahuan lokal.'),
+('Dr. Rudi Hartono, M.Pd.', 'assets/img/default-avatar.png', 'Dosen Pendidikan Matematika di Universitas Negeri Jakarta. Kontributor utama dalam pengembangan modul pembelajaran etnomatematika berbasis proyek.');
